@@ -1,2 +1,2 @@
-# BeSAIRiskMasterControlSetViz
-Visualization of BeSAIRiskMasterControlSet
+# BeSAIRisk&ControlsViz
+Visualization of BeSAIRisk & MasterControlSet
