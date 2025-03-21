@@ -1,2 +1,2 @@
-# BeSMasterControlsAndAIRisksVisualizer
-Visualization of BeSAIRisk & MasterControlSet
+# BeSAIRisksControlsViz
+AI Risk and Master Controls Visualizer.
