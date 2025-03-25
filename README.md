@@ -55,7 +55,7 @@ A one-page web application that generates an interactive chord chart visualizing
 * Single-page website built using:
     * React
     * Lightweight JavaScript (vanilla JS) with a charting library (e.g., D3.js).
-* The chosen technology stack will be specified in the README.
+  
 
 ### User Interface (UI)
 
