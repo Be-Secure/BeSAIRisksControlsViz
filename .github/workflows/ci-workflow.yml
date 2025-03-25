@@ -28,10 +28,10 @@ jobs:
           fetch-depth: 0
 
       # Set up Node
-      - name: Use Node 18.x
+      - name: Use Node 16.x
         uses: actions/setup-node@v1
         with:
-          node-version: 18.18.2
+          node-version: 16.11.0
 
       # Run install dependencies
       - name: Install dependencies
