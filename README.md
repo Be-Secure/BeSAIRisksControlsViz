@@ -80,3 +80,7 @@ A web application that generates an interactive chord chart visualizing the rela
 ### Deployment
 
 * Designed for easy deployment on common web hosting platforms (e.g., GitHub Pages, Netlify, Vercel).
+
+## Development Process
+
+This project is being developed using a Test-Driven Development (TDD) approach. For details on testing strategy, conventions, and implementation, please refer to the [Development Guidelines]() in the project's Wiki.
