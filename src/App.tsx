@@ -3,7 +3,7 @@ import { Routes, Route, Navigate, useLocation } from "react-router-dom";
 import { ThemeProvider } from "@mui/material/styles";
 import CssBaseline from "@mui/material/CssBaseline";
 
-import theme from "./assets/theme";
+//import theme from "./assets/theme";
 import routes from "./routes";
 import { renderRoutes } from "./routeUtils";
 import LandingPages from "./pages/LandingPages";
