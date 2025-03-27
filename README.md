@@ -2,7 +2,7 @@
 
 ## Overview
 
-A web application that generates an interactive chord chart visualizing the relationships between AI governance controls, directly from the `Source Data.xlsx` file in this repository. It includes filtering capabilities based on Domain, Topic, and specific Governance Standards.
+A web application that generates an interactive visualizing the relationships between AI governance controls, directly from the `Source Data.xlsx` file in this repository. It includes filtering capabilities based on Domain, Topic, and specific Governance Standards.
 
 ## Key Requirements
 
