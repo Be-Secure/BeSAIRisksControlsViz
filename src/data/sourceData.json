@@ -1,0 +1,1911 @@
+{
+    "Mapping":[
+       {
+          "Domain":"Governance & Leadership",
+          "Master":"GL-1",
+          "Topic":"Executive Commitment and Accountability",
+          "Control Statement":"The organisation's executive leadership shall establish, document, and maintain formal accountability for AI governance through approved policies that align with organisational objectives and values. These policies shall be reviewed at planned intervals by executive leadership to ensure continued effectiveness and relevance. Executive leadership shall demonstrate active engagement in AI risk decisions and maintain ultimate accountability for the organisation's AI systems.",
+          "Standards":[
+             {
+                "name":"ISO42001",
+                "references":[
+                   {
+                      "section":"4.1",
+                      "citation":"ISO42001:2019, Clause 4.1",
+                      "description":"Context of the organization"
+                   },
+                   {
+                      "section":"5.1",
+                      "citation":"ISO42001:2019, Clause 5.1",
+                      "description":"Leadership and commitment"
+                   },
+                   {
+                      "section":"5.2",
+                      "citation":"ISO42001:2019, Clause 5.2",
+                      "description":"Policy"
+                   },
+                   {
+                      "section":"9.3",
+                      "citation":"ISO42001:2019, Clause 9.3",
+                      "description":"Management review"
+                   },
+                   {
+                      "section":"A.2.2",
+                      "citation":"ISO42001:2019, Annex A.2.2",
+                      "description":"Policy on AI governance"
+                   },
+                   {
+                      "section":"A.2.3",
+                      "citation":"ISO42001:2019, Annex A.2.3",
+                      "description":"AI governance framework"
+                   },
+                   {
+                      "section":"A.2.4",
+                      "citation":"ISO42001:2019, Annex A.2.4",
+                      "description":"AI governance implementation guidance"
+                   }
+                ]
+             },
+             {
+                "name":"ISO27001",
+                "references":[
+                   {
+                      "section":"5.1",
+                      "citation":"ISO27001:2013, Clause 5.1",
+                      "description":"Policy"
+                   },
+                   {
+                      "section":"5.2",
+                      "citation":"ISO27001:2013, Clause 5.2",
+                      "description":"Roles and responsibilities"
+                   },
+                   {
+                      "section":"9.3",
+                      "citation":"ISO27001:2013, Clause 9.3",
+                      "description":"Management review"
+                   },
+                   {
+                      "section":"A.5.1",
+                      "citation":"ISO27001:2013, Annex A.5.1",
+                      "description":"Information security policies"
+                   },
+                   {
+                      "section":"A.5.2",
+                      "citation":"ISO27001:2013, Annex A.5.2",
+                      "description":"Review of the policies for information security"
+                   }
+                ]
+             },
+             {
+                "name":"ISO27701",
+                "references":[
+                   {
+                      "section":"6.1.1",
+                      "citation":"ISO27701:2019, Clause 6.1.1",
+                      "description":"PIMS-related policies"
+                   },
+                   {
+                      "section":"6.1.2",
+                      "citation":"ISO27701:2019, Clause 6.1.2",
+                      "description":"Review of the PIMS-related policies"
+                   }
+                ]
+             },
+             {
+                "name":"EU AI ACT",
+                "references":[
+                   {
+                      "section":"4.1",
+                      "citation":"EU AI Act, Article 4.1",
+                      "description":"Governance"
+                   }
+                ]
+             },
+             {
+                "name":"NIST RMF",
+                "references":[
+                   {
+                      "function":"Govern",
+                      "category":"Governance",
+                      "control":"1.1",
+                      "citation":"NIST AI RMF, Govern 1.1",
+                      "description":"Establish an AI governance policy"
+                   },
+                   {
+                      "function":"Govern",
+                      "category":"Governance",
+                      "control":"2.3",
+                      "citation":"NIST AI RMF, Govern 2.3",
+                      "description":"Establish AI risk management roles"
+                   },
+                   {
+                      "function":"Govern",
+                      "category":"Governance",
+                      "control":"3.1",
+                      "citation":"NIST AI RMF, Govern 3.1",
+                      "description":"Establish AI accountability mechanisms"
+                   }
+                ]
+             },
+             {
+                "name":"SOC2",
+                "references":[
+                   {
+                      "section":"CC.1.1",
+                      "citation":"SOC2, CC.1.1",
+                      "description":"Control environment"
+                   },
+                   {
+                      "section":"CC.1.2",
+                      "citation":"SOC2, CC.1.2",
+                      "description":"Governance and oversight"
+                   },
+                   {
+                      "section":"CC.1.3",
+                      "citation":"SOC2, CC.1.3",
+                      "description":"Organizational structure"
+                   },
+                   {
+                      "section":"CC.1.4",
+                      "citation":"SOC2, CC.1.4",
+                      "description":"Human resources"
+                   },
+                   {
+                      "section":"CC.1.5",
+                      "citation":"SOC2, CC.1.5",
+                      "description":"Risk assessment"
+                   },
+                   {
+                      "section":"CC.5.3",
+                      "citation":"SOC2, CC.5.3",
+                      "description":"Policies and procedures"
+                   }
+                ]
+             }
+          ]
+       },
+       {
+          "Domain":"Governance & Leadership",
+          "Master":"GL-2",
+          "Topic":"Roles, Responsibilities & Resources",
+          "Control Statement":"The organisation shall define, document, and maintain clear roles and responsibilities for AI governance, ensuring appropriate segregation of duties and allocation of resources. These roles shall be staffed with competent individuals who understand their responsibilities for AI system development, deployment, and oversight. The organisation shall maintain documentation of required resources, including personnel competencies, tools, and infrastructure needed for effective AI governance.",
+          "Standards":[
+             {
+                "name":"ISO42001",
+                "references":[
+                   {
+                      "section":"5.3",
+                      "citation":"ISO42001:2019, Clause 5.3",
+                      "description":"Organizational roles, responsibilities and authorities"
+                   },
+                   {
+                      "section":"7.1",
+                      "citation":"ISO42001:2019, Clause 7.1",
+                      "description":"Resources"
+                   },
+                   {
+                      "section":"7.2",
+                      "citation":"ISO42001:2019, Clause 7.2",
+                      "description":"Competence"
+                   },
+                   {
+                      "section":"7.3",
+                      "citation":"ISO42001:2019, Clause 7.3",
+                      "description":"Awareness"
+                   },
+                   {
+                      "section":"A.3.2",
+                      "citation":"ISO42001:2019, Annex A.3.2",
+                      "description":"Responsibility for AI governance"
+                   },
+                   {
+                      "section":"A.4.2",
+                      "citation":"ISO42001:2019, Annex A.4.2",
+                      "description":"Competence of AI personnel"
+                   }
+                ]
+             },
+             {
+                "name":"ISO27001",
+                "references":[
+                   {
+                      "section":"5.3",
+                      "citation":"ISO27001:2013, Clause 5.3",
+                      "description":"Organizational roles, responsibilities and authorities"
+                   },
+                   {
+                      "section":"7.1",
+                      "citation":"ISO27001:2013, Clause 7.1",
+                      "description":"Resources"
+                   },
+                   {
+                      "section":"7.2",
+                      "citation":"ISO27001:2013, Clause 7.2",
+                      "description":"Competence"
+                   },
+                   {
+                      "section":"7.3",
+                      "citation":"ISO27001:2013, Clause 7.3",
+                      "description":"Awareness"
+                   },
+                   {
+                      "section":"A.6.1",
+                      "citation":"ISO27001:2013, Annex A.6.1",
+                      "description":"Organization of information security"
+                   },
+                   {
+                      "section":"A.6.2",
+                      "citation":"ISO27001:2013, Annex A.6.2",
+                      "description":"Allocation of information security responsibilities"
+                   },
+                   {
+                      "section":"A.7.2",
+                      "citation":"ISO27001:2013, Annex A.7.2",
+                      "description":"Information security awareness, education and training"
+                   }
+                ]
+             },
+             {
+                "name":"ISO27701",
+                "references":[
+                   {
+                      "section":"6.2.1",
+                      "citation":"ISO27701:2019, Clause 6.2.1",
+                      "description":"Responsibilities"
+                   },
+                   {
+                      "section":"6.2.2",
+                      "citation":"ISO27701:2019, Clause 6.2.2",
+                      "description":"Assignment of PII processing responsibilities"
+                   },
+                   {
+                      "section":"7.2.2",
+                      "citation":"ISO27701:2019, Clause 7.2.2",
+                      "description":"Competence"
+                   },
+                   {
+                      "section":"9.2.3",
+                      "citation":"ISO27701:2019, Clause 9.2.3",
+                      "description":"Resources"
+                   }
+                ]
+             },
+             {
+                "name":"EU AI ACT",
+                "references":[
+                   {
+                      "section":"22.1",
+                      "citation":"EU AI Act, Article 22.1",
+                      "description":"Providers obligations"
+                   },
+                   {
+                      "section":"22.2",
+                      "citation":"EU AI Act, Article 22.2",
+                      "description":"Users obligations"
+                   },
+                   {
+                      "section":"26.3",
+                      "citation":"EU AI Act, Article 26.3",
+                      "description":"Governance"
+                   }
+                ]
+             },
+             {
+                "name":"SOC2",
+                "references":[
+                   {
+                      "section":"CC.1.3",
+                      "citation":"SOC2, CC.1.3",
+                      "description":"Organizational structure"
+                   },
+                   {
+                      "section":"CC.1.4",
+                      "citation":"SOC2, CC.1.4",
+                      "description":"Human resources"
+                   }
+                ]
+             }
+          ]
+       },
+       {
+          "Domain":"Governance & Leadership",
+          "Master":"GL-3",
+          "Topic":"Strategic Alignment & Objectives",
+          "Control Statement":"The organisation shall document clear objectives for the responsible development and use of AI systems, ensuring alignment between business goals, ethical principles, and regulatory requirements. These objectives shall be integrated into organisational practices and regularly reviewed to maintain effectiveness. The organisation shall foster an environment that promotes critical thinking and safety-first approaches to AI development and deployment.",
+          "Standards":[
+             {
+                "name":"ISO42001",
+                "references":[
+                   {
+                      "section":"4.1-4.4",
+                      "citation":"ISO42001:2019, Clauses 4.1-4.4",
+                      "description":"Understanding the organization and its context"
+                   },
+                   {
+                      "section":"5.2",
+                      "citation":"ISO42001:2019, Clause 5.2",
+                      "description":"Policy"
+                   },
+                   {
+                      "section":"6.2-6.3",
+                      "citation":"ISO42001:2019, Clauses 6.2-6.3",
+                      "description":"Objectives and planning to achieve them"
+                   },
+                   {
+                      "section":"A.2.2-A.2.4",
+                      "citation":"ISO42001:2019, Annex A.2.2-A.2.4",
+                      "description":"AI governance policies and framework"
+                   },
+                   {
+                      "section":"A.6.1.2",
+                      "citation":"ISO42001:2019, Annex A.6.1.2",
+                      "description":"Planning of AI systems"
+                   },
+                   {
+                      "section":"A.9.3",
+                      "citation":"ISO42001:2019, Annex A.9.3",
+                      "description":"Human oversight of AI systems"
+                   },
+                   {
+                      "section":"A.9.4",
+                      "citation":"ISO42001:2019, Annex A.9.4",
+                      "description":"Monitoring of AI systems"
+                   }
+                ]
+             },
+             {
+                "name":"ISO27001",
+                "references":[
+                   {
+                      "section":"4.1-4.4",
+                      "citation":"ISO27001:2013, Clauses 4.1-4.4",
+                      "description":"Context of the organization"
+                   },
+                   {
+                      "section":"6.2-6.3",
+                      "citation":"ISO27001:2013, Clauses 6.2-6.3",
+                      "description":"Information security planning"
+                   }
+                ]
+             },
+             {
+                "name":"ISO27701",
+                "references":[
+                   {
+                      "section":"A.7.2.1",
+                      "citation":"ISO27701:2019, Annex A.7.2.1",
+                      "description":"Privacy by design and default"
+                   },
+                   {
+                      "section":"A.7.2.2",
+                      "citation":"ISO27701:2019, Annex A.7.2.2",
+                      "description":"Privacy impact assessment"
+                   },
+                   {
+                      "section":"B.8.2.2",
+                      "citation":"ISO27701:2019, Annex B.8.2.2",
+                      "description":"Lawfulness of processing"
+                   }
+                ]
+             },
+             {
+                "name":"NIST RMF",
+                "references":[
+                   {
+                      "function":"Map",
+                      "category":"Map",
+                      "control":"1.3",
+                      "citation":"NIST AI RMF, Map 1.3",
+                      "description":"Map AI risks to organizational risk management"
+                   },
+                   {
+                      "function":"Map",
+                      "category":"Map",
+                      "control":"1.4",
+                      "citation":"NIST AI RMF, Map 1.4",
+                      "description":"Map AI risks to legal and regulatory requirements"
+                   },
+                   {
+                      "function":"Govern",
+                      "category":"Governance",
+                      "control":"1.1",
+                      "citation":"NIST AI RMF, Govern 1.1",
+                      "description":"Establish an AI governance policy"
+                   },
+                   {
+                      "function":"Govern",
+                      "category":"Governance",
+                      "control":"1.2",
+                      "citation":"NIST AI RMF, Govern 1.2",
+                      "description":"Establish AI risk management strategy"
+                   },
+                   {
+                      "function":"Govern",
+                      "category":"Governance",
+                      "control":"4.1",
+                      "citation":"NIST AI RMF, Govern 4.1",
+                      "description":"Establish AI explainability and interpretability policies"
+                   },
+                   {
+                      "function":"Govern",
+                      "category":"Governance",
+                      "control":"3.1",
+                      "citation":"NIST AI RMF, Govern 3.1",
+                      "description":"Establish AI accountability mechanisms"
+                   }
+                ]
+             }
+          ]
+       },
+       {
+          "Domain":"Risk Management",
+          "Master":"RM-1",
+          "Topic":"Risk Management Framework and Governance",
+          "Control Statement":"The organisation shall establish, document, and maintain a comprehensive risk management system covering the entire AI lifecycle. This system shall define clear roles, responsibilities, and processes for identifying, assessing, treating, and monitoring AI-related risks. The framework shall incorporate regular reviews by executive leadership and ensure risk management activities align with organisational risk tolerance. Risk management processes shall be transparent, documented, and appropriately resourced to maintain effectiveness.",
+          "Standards":[
+             {
+                "name":"ISO42001",
+                "references":[
+                   {
+                      "section":"6.1",
+                      "citation":"ISO42001:2019, Clause 6.1",
+                      "description":"Actions to address risks and opportunities"
+                   }
+                ]
+             },
+             {
+                "name":"ISO27001",
+                "references":[
+                   {
+                      "section":6.1,
+                      "citation":"ISO27001:2013, Clause 6.1",
+                      "description":"Information security risk assessment"
+                   }
+                ]
+             },
+             {
+                "name":"ISO27701",
+                "references":[
+                   {
+                      "section":"12.2.1",
+                      "citation":"ISO27701:2019, Clause 12.2.1",
+                      "description":"PII risk assessment"
+                   },
+                   {
+                      "section":"A.7.2.5",
+                      "citation":"ISO27701:2019, Annex A.7.2.5",
+                      "description":"Privacy risk assessment"
+                   },
+                   {
+                      "section":"A.7.2.8",
+                      "citation":"ISO27701:2019, Annex A.7.2.8",
+                      "description":"Privacy risk treatment"
+                   },
+                   {
+                      "section":"B.8.2.6",
+                      "citation":"ISO27701:2019, Annex B.8.2.6",
+                      "description":"Privacy risk management"
+                   }
+                ]
+             },
+             {
+                "name":"EU AI ACT",
+                "references":[
+                   {
+                      "section":"9.1",
+                      "citation":"EU AI Act, Article 9.1",
+                      "description":"Risk management system"
+                   },
+                   {
+                      "section":"9.2",
+                      "citation":"EU AI Act, Article 9.2",
+                      "description":"Risk management plan"
+                   }
+                ]
+             },
+             {
+                "name":"NIST RMF",
+                "references":[
+                   {
+                      "function":"Govern",
+                      "category":"Governance",
+                      "control":"1.3",
+                      "citation":"NIST AI RMF, Govern 1.3",
+                      "description":"Establish AI risk management"
+                   },
+                   {
+                      "function":"Govern",
+                      "category":"Governance",
+                      "control":"1.4",
+                      "citation":"NIST AI RMF, Govern 1.4",
+                      "description":"Establish AI risk tolerance"
+                   },
+                   {
+                      "function":"Govern",
+                      "category":"Governance",
+                      "control":"1.5",
+                      "citation":"NIST AI RMF, Govern 1.5",
+                      "description":"Establish AI risk management processes"
+                   },
+                   {
+                      "function":"Map",
+                      "category":"Map",
+                      "control":"1.5",
+                      "citation":"NIST AI RMF, Map 1.5",
+                      "description":"Map AI risks to organizational risk tolerance"
+                   }
+                ]
+             },
+             {
+                "name":"SOC2",
+                "references":[
+                   {
+                      "section":"CC3.1",
+                      "citation":"SOC2, CC3.1",
+                      "description":"Risk assessment"
+                   }
+                ]
+             }
+          ]
+       },
+       {
+          "Domain":"Risk Management",
+          "Master":"RM-2",
+          "Topic":"Risk Identification and Impact Assessment",
+          "Control Statement":"The organisation shall conduct and document comprehensive impact assessments for AI systems, evaluating potential effects on individuals, groups, and society throughout the system lifecycle. These assessments shall consider fundamental rights, safety implications, environmental impacts, and effects on vulnerable populations. The organisation shall maintain a systematic approach to identifying both existing and emerging risks, including those from third-party components and systems.",
+          "Standards":[
+             {
+                "name":"ISO42001",
+                "references":[
+                   {
+                      "section":"6.1.1-6.1.2",
+                      "citation":"ISO42001:2019, Clauses 6.1.1-6.1.2",
+                      "description":"Risk identification and assessment"
+                   },
+                   {
+                      "section":"6.1.4",
+                      "citation":"ISO42001:2019, Clause 6.1.4",
+                      "description":"Risk treatment planning"
+                   },
+                   {
+                      "section":"8.4",
+                      "citation":"ISO42001:2019, Clause 8.4",
+                      "description":"Monitoring, measurement, analysis and evaluation"
+                   },
+                   {
+                      "section":"A.5.2",
+                      "citation":"ISO42001:2019, Annex A.5.2",
+                      "description":"AI risk assessment"
+                   },
+                   {
+                      "section":"A.5.3",
+                      "citation":"ISO42001:2019, Annex A.5.3",
+                      "description":"AI risk treatment"
+                   },
+                   {
+                      "section":"A.5.4",
+                      "citation":"ISO42001:2019, Annex A.5.4",
+                      "description":"AI risk monitoring"
+                   },
+                   {
+                      "section":"A.5.5",
+                      "citation":"ISO42001:2019, Annex A.5.5",
+                      "description":"AI risk communication"
+                   }
+                ]
+             },
+             {
+                "name":"ISO27001",
+                "references":[
+                   {
+                      "section":"6.1.2",
+                      "citation":"ISO27001:2013, Clause 6.1.2",
+                      "description":"Information security risk assessment"
+                   }
+                ]
+             },
+             {
+                "name":"ISO27701",
+                "references":[
+                   {
+                      "section":"A.7.2.5",
+                      "citation":"ISO27701:2019, Annex A.7.2.5",
+                      "description":"Privacy risk assessment"
+                   },
+                   {
+                      "section":"A.7.3.10",
+                      "citation":"ISO27701:2019, Annex A.7.3.10",
+                      "description":"Privacy risk treatment"
+                   },
+                   {
+                      "section":"A.7.4.4",
+                      "citation":"ISO27701:2019, Annex A.7.4.4",
+                      "description":"Privacy risk monitoring"
+                   }
+                ]
+             },
+             {
+                "name":"EU AI ACT",
+                "references":[
+                   {
+                      "section":"9.9",
+                      "citation":"EU AI Act, Article 9.9",
+                      "description":"Conformity assessment"
+                   },
+                   {
+                      "section":"27.1",
+                      "citation":"EU AI Act, Article 27.1",
+                      "description":"Risk assessment"
+                   }
+                ]
+             },
+             {
+                "name":"NIST RMF",
+                "references":[
+                   {
+                      "function":"Map",
+                      "category":"Map",
+                      "control":"1.1",
+                      "citation":"NIST AI RMF, Map 1.1",
+                      "description":"Map AI risks to impact on individuals"
+                   },
+                   {
+                      "function":"Map",
+                      "category":"Map",
+                      "control":"3.1",
+                      "citation":"NIST AI RMF, Map 3.1",
+                      "description":"Map AI risks to societal impact"
+                   },
+                   {
+                      "function":"Map",
+                      "category":"Map",
+                      "control":"3.2",
+                      "citation":"NIST AI RMF, Map 3.2",
+                      "description":"Map AI risks to environmental impact"
+                   },
+                   {
+                      "function":"Measure",
+                      "category":"Measure",
+                      "control":"2.6",
+                      "citation":"NIST AI RMF, Measure 2.6",
+                      "description":"Measure AI risk"
+                   },
+                   {
+                      "function":"Measure",
+                      "category":"Measure",
+                      "control":"2.7",
+                      "citation":"NIST AI RMF, Measure 2.7",
+                      "description":"Measure AI impact"
+                   },
+                   {
+                      "function":"Measure",
+                      "category":"Measure",
+                      "control":"2.8",
+                      "citation":"NIST AI RMF, Measure 2.8",
+                      "description":"Measure AI bias"
+                   },
+                   {
+                      "function":"Measure",
+                      "category":"Measure",
+                      "control":"2.10",
+                      "citation":"NIST AI RMF, Measure 2.10",
+                      "description":"Measure AI explainability"
+                   },
+                   {
+                      "function":"Measure",
+                      "category":"Measure",
+                      "control":"2.12",
+                      "citation":"NIST AI RMF, Measure 2.12",
+                      "description":"Measure AI performance"
+                   }
+                ]
+             },
+             {
+                "name":"SOC2",
+                "references":[
+                   {
+                      "section":"CC3.2",
+                      "citation":"SOC2, CC3.2",
+                      "description":"Risk assessment"
+                   }
+                ]
+             }
+          ]
+       },
+       {
+          "Domain":"Risk Management",
+          "Master":"RM-3",
+          "Topic":"Risk Treatment and Control Implementation",
+          "Control Statement":"The organisation shall implement appropriate technical and organisational measures to address identified risks, ensuring controls are proportionate to risk levels and organisational risk tolerance. Risk treatment strategies shall be documented and prioritised based on impact and likelihood, with clear accountability for implementation. The organisation shall maintain specific protocols for high-risk AI systems, including quality management systems and compliance verification processes.",
+          "Standards":[
+             {
+                "name":"ISO42001",
+                "references":[
+                   {
+                      "section":"6.1.3",
+                      "citation":"ISO42001:2019, Clause 6.1.3",
+                      "description":"Risk treatment"
+                   }
+                ]
+             },
+             {
+                "name":"ISO27001",
+                "references":[
+                   {
+                      "section":"6.1.3",
+                      "citation":"ISO27001:2013, Clause 6.1.3",
+                      "description":"Information security risk treatment"
+                   }
+                ]
+             },
+             {
+                "name":"ISO27701",
+                "references":[
+                   {
+                      "section":"A.7.4.1",
+                      "citation":"ISO27701:2019, Annex A.7.4.1",
+                      "description":"Privacy controls"
+                   },
+                   {
+                      "section":"A.7.4.2",
+                      "citation":"ISO27701:2019, Annex A.7.4.2",
+                      "description":"Privacy controls implementation"
+                   },
+                   {
+                      "section":"A.7.4.4",
+                      "citation":"ISO27701:2019, Annex A.7.4.4",
+                      "description":"Privacy risk monitoring"
+                   },
+                   {
+                      "section":"A.7.4.5",
+                      "citation":"ISO27701:2019, Annex A.7.4.5",
+                      "description":"Privacy controls review"
+                   }
+                ]
+             },
+             {
+                "name":"EU AI ACT",
+                "references":[
+                   {
+                      "section":"8.1",
+                      "citation":"EU AI Act, Article 8.1",
+                      "description":"Conformity assessment"
+                   },
+                   {
+                      "section":"8.2",
+                      "citation":"EU AI Act, Article 8.2",
+                      "description":"Conformity assessment procedure"
+                   },
+                   {
+                      "section":"17.1",
+                      "citation":"EU AI Act, Article 17.1",
+                      "description":"Quality management system"
+                   },
+                   {
+                      "section":"9.3",
+                      "citation":"EU AI Act, Article 9.3",
+                      "description":"Risk mitigation"
+                   },
+                   {
+                      "section":"9.4",
+                      "citation":"EU AI Act, Article 9.4",
+                      "description":"Risk control measures"
+                   },
+                   {
+                      "section":"9.5",
+                      "citation":"EU AI Act, Article 9.5",
+                      "description":"Risk control documentation"
+                   }
+                ]
+             },
+             {
+                "name":"NIST RMF",
+                "references":[
+                   {
+                      "function":"Manage",
+                      "category":"Manage",
+                      "control":"1.2",
+                      "citation":"NIST AI RMF, Manage 1.2",
+                      "description":"Manage AI risk treatment"
+                   },
+                   {
+                      "function":"Manage",
+                      "category":"Manage",
+                      "control":"1.3",
+                      "citation":"NIST AI RMF, Manage 1.3",
+                      "description":"Manage AI risk control implementation"
+                   },
+                   {
+                      "function":"Manage",
+                      "category":"Manage",
+                      "control":"1.4",
+                      "citation":"NIST AI RMF, Manage 1.4",
+                      "description":"Manage AI risk control effectiveness"
+                   }
+                ]
+             },
+             {
+                "name":"SOC2",
+                "references":[
+                   {
+                      "section":"CC5.1",
+                      "citation":"SOC2, CC5.1",
+                      "description":"Control activities"
+                   },
+                   {
+                      "section":"CC9.1",
+                      "citation":"SOC2, CC9.1",
+                      "description":"Change management"
+                   }
+                ]
+             }
+          ]
+       },
+       {
+          "Domain":"Risk Management",
+          "Master":"RM-4",
+          "Topic":"Risk Monitoring and Response",
+          "Control Statement":"The organisation shall implement continuous monitoring processes to track the effectiveness of risk controls and identify emerging risks throughout the AI lifecycle. This shall include mechanisms for detecting and responding to previously unknown risks, regular evaluation of third-party risk exposure, and processes for incident response and recovery. The organisation shall maintain documentation of monitoring activities and ensure appropriate escalation paths exist for risk-related issues.",
+          "Standards":[
+             {
+                "name":"ISO42001",
+                "references":[
+                   {
+                      "section":"6.1.3",
+                      "citation":"ISO42001:2019, Clause 6.1.3",
+                      "description":"Risk treatment"
+                   },
+                   {
+                      "section":"8.1-8.3",
+                      "citation":"ISO42001:2019, Clauses 8.1-8.3",
+                      "description":"Monitoring, measurement, analysis and evaluation"
+                   }
+                ]
+             },
+             {
+                "name":"ISO27001",
+                "references":[
+                   {
+                      "section":"6.1.3",
+                      "citation":"ISO27001:2013, Clause 6.1.3",
+                      "description":"Information security risk treatment"
+                   },
+                   {
+                      "section":"8.1-8.3",
+                      "citation":"ISO27001:2013, Clauses 8.1-8.3",
+                      "description":"Monitoring, measurement, analysis and evaluation"
+                   }
+                ]
+             },
+             {
+                "name":"ISO27701",
+                "references":[
+                   {
+                      "section":"A.7.4.3",
+                      "citation":"ISO27701:2019, Annex A.7.4.3",
+                      "description":"Privacy monitoring"
+                   },
+                   {
+                      "section":"A.7.4.9",
+                      "citation":"ISO27701:2019, Annex A.7.4.9",
+                      "description":"Privacy incident management"
+                   },
+                   {
+                      "section":"B.8.2.4",
+                      "citation":"ISO27701:2019, Annex B.8.2.4",
+                      "description":"Monitoring of PII processing"
+                   },
+                   {
+                      "section":"B.8.2.5",
+                      "citation":"ISO27701:2019, Annex B.8.2.5",
+                      "description":"Evaluation of privacy controls"
+                   },
+                   {
+                      "section":"B.8.4.3",
+                      "citation":"ISO27701:2019, Annex B.8.4.3",
+                      "description":"Monitoring of records"
+                   }
+                ]
+             },
+             {
+                "name":"EU AI ACT",
+                "references":[
+                   {
+                      "section":9.6,
+                      "citation":"EU AI Act, Article 9.6",
+                      "description":"Monitoring of the risk management system"
+                   }
+                ]
+             },
+             {
+                "name":"NIST RMF",
+                "references":[
+                   {
+                     
+                      "section":"3.1",
+                      "citation":"NIST AI RMF, Measure 3.1",
+                      "description":"Measure AI performance"
+                   },
+                   {
+                      "section":"3.2",
+                      "citation":"NIST AI RMF, Measure 3.2",
+                      "description":"Measure AI impact"
+                   },
+                   {
+                     
+                      "section":"2.1",
+                      "citation":"NIST AI RMF, Manage 2.1",
+                      "description":"Manage AI monitoring"
+                   },
+                   {
+                      "section":"2.2",
+                      "citation":"NIST AI RMF, Manage 2.2",
+                      "description":"Manage AI incident response"
+                   },
+                   {
+                     
+                      "section":"2.3",
+                      "citation":"NIST AI RMF, Manage 2.3",
+                      "description":"Manage AI recovery"
+                   },
+                   {
+                      
+                      "section":"3.1",
+                      "citation":"NIST AI RMF, Manage 3.1",
+                      "description":"Manage AI third-party risk"
+                   },
+                   {
+                    
+                      "section":"6.1",
+                      "citation":"NIST AI RMF, Govern 6.1",
+                      "description":"Govern AI risk communication"
+                   },
+                   {
+                     
+                      "section":"6.2",
+                      "citation":"NIST AI RMF, Govern 6.2",
+                      "description":"Govern AI risk reporting"
+                   }
+                ]
+             },
+             {
+                "name":"SOC2",
+                "references":[
+                   {
+                      "section":"CC3.4",
+                      "citation":"SOC2, CC3.4",
+                      "description":"Risk monitoring"
+                   },
+                   {
+                      "section":"CC9.2",
+                      "citation":"SOC2, CC9.2",
+                      "description":"Vendor risk management"
+                   }
+                ]
+             }
+          ]
+       },
+        {
+             "Domain": "Regulatory Operations",
+             "Master": "RO-1",
+             "Topic": "Regulatory Compliance Framework",
+             "Control Statement": "The organisation shall establish, document, and maintain a comprehensive framework for ensuring compliance with applicable AI regulations and standards. This framework shall include processes for identifying relevant requirements, assessing applicability, implementing necessary controls, and verifying ongoing compliance. The organisation shall maintain systematic processes for tracking and implementing new regulatory requirements, conducting conformity assessments, maintaining necessary certifications, and ensuring timely renewal of compliance documentation. Special attention shall be given to high-risk AI system requirements and prohibited practices. The organisation shall implement processes to track changes that may affect compliance status and maintain evidence of continued conformity with legal obligations",
+             "Standards": [
+               {
+                 "name": "ISO27001",
+                 "references": [
+                   {
+                     "section": "A.18.1",
+                     "citation": "ISO27001:2013, Annex A.18.1",
+                     "description": "Compliance with legal and regulatory requirements"
+                   }
+                 ]
+               },
+               {
+                 "name": "ISO27701",
+                 "references": [
+                   {
+                     "section": "18.2.1",
+                     "citation": "ISO27701:2019, Clause 18.2.1",
+                     "description": "Compliance with legal and regulatory requirements"
+                   },
+                   {
+                     "section": "A.7.2.1-A.7.2.4",
+                     "citation": "ISO27701:2019, Annex A.7.2.1-A.7.2.4",
+                     "description": "Privacy compliance"
+                   },
+                   {
+                     "section": "B.8.2.1-B.8.2.2",
+                     "citation": "ISO27701:2019, Annex B.8.2.1-B.8.2.2",
+                     "description": "Compliance with PII processing requirements"
+                   },
+                   {
+                     "section": "B.8.2.4-B.8.2.5",
+                     "citation": "ISO27701:2019, Annex B.8.2.4-B.8.2.5",
+                     "description": "Compliance with PII processing principles"
+                   }
+                 ]
+               },
+               {
+                 "name": "EU AI ACT",
+                 "references": [
+                   {
+                     "section": "5.1",
+                     "citation": "EU AI Act, Article 5.1",
+                     "description": "Prohibited AI practices"
+                   },
+                   {
+                     "section": "5.2",
+                     "citation": "EU AI Act, Article 5.2",
+                     "description": "Prohibited AI practices"
+                   },
+                   {
+                     "section": "6.1-6.4",
+                     "citation": "EU AI Act, Articles 6.1-6.4",
+                     "description": "Requirements for high-risk AI systems"
+                   },
+                   {
+                     "section": "8.1-8.2",
+                     "citation": "EU AI Act, Articles 8.1-8.2",
+                     "description": "Conformity assessment"
+                   },
+                   {
+                     "section": "40.1",
+                     "citation": "EU AI Act, Article 40.1",
+                     "description": "Authorised representatives"
+                   },
+                   {
+                     "section": "41.1",
+                     "citation": "EU AI Act, Article 41.1",
+                     "description": "Notified bodies"
+                   },
+                   {
+                     "section": "42.1",
+                     "citation": "EU AI Act, Article 42.1",
+                     "description": "Conformity assessment procedure"
+                   },
+                   {
+                     "section": "43.1-43.4",
+                     "citation": "EU AI Act, Articles 43.1-43.4",
+                     "description": "Conformity assessment of high-risk AI systems"
+                   },
+                   {
+                     "section": "44.2-44.3",
+                     "citation": "EU AI Act, Articles 44.2-44.3",
+                     "description": "Conformity assessment of high-risk AI systems"
+                   },
+                   {
+                     "section": "47.1-47.4",
+                     "citation": "EU AI Act, Articles 47.1-47.4",
+                     "description": "Presumption of conformity with standards"
+                   },
+                   {
+                     "section": "49.1-49.3",
+                     "citation": "EU AI Act, Articles 49.1-49.3",
+                     "description": "CE marking of conformity"
+                   }
+                 ]
+               },
+               {
+                 "name": "NIST RMF",
+                 "references": [
+                   {
+                     "function": "Govern",
+                     "category": "Governance",
+                     "control": "1.1",
+                     "citation": "NIST AI RMF, Govern 1.1",
+                     "description": "Establish an AI governance policy"
+                   },
+                   {
+                     "function": "Map",
+                     "category": "Map",
+                     "control": "4.1",
+                     "citation": "NIST AI RMF, Map 4.1",
+                     "description": "Map AI risks to legal and regulatory requirements"
+                   }
+                 ]
+               },
+               {
+                 "name": "SOC2",
+                 "references": [
+                   {
+                     "section": "CC1.5",
+                     "citation": "SOC2, CC1.5",
+                     "description": "Policies and procedures"
+                   }
+                 ]
+               }
+             ]
+           },
+           {
+             "Domain": "Regulatory Operations",
+             "Master": "RO-2",
+             "Topic": "Transparency, Disclosure and Reporting",
+             "Control Statement": "The organisation shall implement mechanisms to ensure appropriate transparency regarding AI systems, including clear notification of AI use, disclosure of automated decision-making, and communication of significant system changes. The organisation shall establish and maintain processes for reporting incidents, safety issues, and non-compliance to relevant authorities and affected stakeholders. This shall include clear procedures for incident detection, assessment, notification timelines, and follow-up actions.",
+             "Standards": [
+               {
+                 "name": "ISO42001",
+                 "references": [
+                   {
+                     "section": "A.8.3",
+                     "citation": "ISO42001:2019, Annex A.8.3",
+                     "description": "Communication about AI systems"
+                   },
+                   {
+                     "section": "A.8.5",
+                     "citation": "ISO42001:2019, Annex A.8.5",
+                     "description": "Disclosure of AI decision-making"
+                   }
+                 ]
+               },
+               {
+                 "name": "ISO27001",
+                 "references": [
+                   {
+                     "section": "A.6.3",
+                     "citation": "ISO27001:2013, Annex A.6.3",
+                     "description": "Contact with authorities"
+                   }
+                 ]
+               },
+               {
+                 "name": "ISO27701",
+                 "references": [
+                   {
+                     "section": "6.2.3",
+                     "citation": "ISO27701:2019, Clause 6.2.3",
+                     "description": "Communication with interested parties"
+                   },
+                   {
+                     "section": "A.7.3.2-A.7.3.3",
+                     "citation": "ISO27701:2019, Annex A.7.3.2-A.7.3.3",
+                     "description": "Transparency and disclosure of PII processing"
+                   },
+                   {
+                     "section": "A.7.3.8-A.7.3.9",
+                     "citation": "ISO27701:2019, Annex A.7.3.8-A.7.3.9",
+                     "description": "Notification of PII processing"
+                   },
+                   {
+                     "section": "A.7.5.3-A.7.5.4",
+                     "citation": "ISO27701:2019, Annex A.7.5.3-A.7.5.4",
+                     "description": "Disclosure of PII"
+                   },
+                   {
+                     "section": "B.8.5.3-B.8.5.6",
+                     "citation": "ISO27701:2019, Annex B.8.5.3-B.8.5.6",
+                     "description": "Transparency and communication with PII principals"
+                   }
+                 ]
+               },
+               {
+                 "name": "EU AI ACT",
+                 "references": [
+                   {
+                     "section": "50.1-50.5",
+                     "citation": "EU AI Act, Articles 50.1-50.5",
+                     "description": "Transparency obligations for providers"
+                   },
+                   {
+                     "section": "86.1-86.3",
+                     "citation": "EU AI Act, Articles 86.1-86.3",
+                     "description": "Reporting of incidents"
+                   },
+                   {
+                     "section": "20.1",
+                     "citation": "EU AI Act, Article 20.1",
+                     "description": "Documentation and instructions for use"
+                   },
+                   {
+                     "section": "20.2",
+                     "citation": "EU AI Act, Article 20.2",
+                     "description": "Technical documentation"
+                   },
+                   {
+                     "section": "60.7",
+                     "citation": "EU AI Act, Article 60.7",
+                     "description": "Information obligations for providers"
+                   },
+                   {
+                     "section": "60.8",
+                     "citation": "EU AI Act, Article 60.8",
+                     "description": "Information obligations for users"
+                   }
+                 ]
+               },
+               {
+                 "name": "NIST RMF",
+                 "references": [
+                   {
+                     "function": "Govern",
+                     "category": "Governance",
+                     "control": "6.1",
+                     "citation": "NIST AI RMF, Govern 6.1",
+                     "description": "Establish AI transparency policies"
+                   },
+                   {
+                     "function": "Map",
+                     "category": "Map",
+                     "control": "4.1",
+                     "citation": "NIST AI RMF, Map 4.1",
+                     "description": "Map AI risks to legal and regulatory requirements"
+                   }
+                 ]
+               },
+               {
+                 "name": "SOC2",
+                 "references": [
+                   {
+                     "section": "CC2.3",
+                     "citation": "SOC2, CC2.3",
+                     "description": "Communication and information"
+                   },
+                   {
+                     "section": "P1.1",
+                     "citation": "SOC2, P1.1",
+                     "description": "Notice"
+                   },
+                   {
+                     "section": "P1.2",
+                     "citation": "SOC2, P1.2",
+                     "description": "Choice and consent"
+                   },
+                   {
+                     "section": "P1.3",
+                     "citation": "SOC2, P1.3",
+                     "description": "Collection"
+                   }
+                 ]
+               }
+             ]
+           },
+           {
+            "Domain": "Regulatory Operations",
+            "Master": "RO-3",
+            "Topic": "Record-Keeping",
+            "Control Statement": "The organisation shall maintain comprehensive documentation and records demonstrating compliance with AI regulatory requirements. This shall include technical documentation, conformity assessments, impact analyses, test results, and evidence of ongoing monitoring. The organisation shall establish retention periods aligned with regulatory requirements, implement secure storage systems, and ensure documentation remains accessible to authorised parties throughout required retention periods.",
+            "Standards": [
+              {
+                "name": "ISO27001",
+                "references": [
+                  {
+                    "section": "A.7.2",
+                    "citation": "ISO27001:2013, Annex A.7.2",
+                    "description": "Information security documentation"
+                  }
+                ]
+              },
+              {
+                "name": "ISO27701",
+                "references": [
+                  {
+                    "section": "8.2.3",
+                    "citation": "ISO27701:2019, Clause 8.2.3",
+                    "description": "Records of consent"
+                  },
+                  {
+                    "section": "A.7.2.8",
+                    "citation": "ISO27701:2019, Annex A.7.2.8",
+                    "description": "Records of processing activities"
+                  },
+                  {
+                    "section": "A.7.3.1",
+                    "citation": "ISO27701:2019, Annex A.7.3.1",
+                    "description": "Records of data subject requests"
+                  },
+                  {
+                    "section": "A.7.4.3",
+                    "citation": "ISO27701:2019, Annex A.7.4.3",
+                    "description": "Records of privacy monitoring"
+                  },
+                  {
+                    "section": "A.7.4.6-A.7.4.8",
+                    "citation": "ISO27701:2019, Annex A.7.4.6-A.7.4.8",
+                    "description": "Records of privacy incidents"
+                  },
+                  {
+                    "section": "B.8.2.6",
+                    "citation": "ISO27701:2019, Annex B.8.2.6",
+                    "description": "Records of PII processing"
+                  },
+                  {
+                    "section": "B.8.4.1-B.8.4.2",
+                    "citation": "ISO27701:2019, Annex B.8.4.1-B.8.4.2",
+                    "description": "Records of PII processing activities"
+                  }
+                ]
+              },
+              {
+                "name": "EU AI ACT",
+                "references": [
+                  {
+                    "section": "11.1",
+                    "citation": "EU AI Act, Article 11.1",
+                    "description": "Technical documentation"
+                  },
+                  {
+                    "section": "11.3",
+                    "citation": "EU AI Act, Article 11.3",
+                    "description": "Instructions for use"
+                  },
+                  {
+                    "section": "18.1",
+                    "citation": "EU AI Act, Article 18.1",
+                    "description": "Conformity assessment"
+                  },
+                  {
+                    "section": "19.1",
+                    "citation": "EU AI Act, Article 19.1",
+                    "description": "EU declaration of conformity"
+                  },
+                  {
+                    "section": "19.2",
+                    "citation": "EU AI Act, Article 19.2",
+                    "description": "CE marking of conformity"
+                  },
+                  {
+                    "section": "71.2",
+                    "citation": "EU AI Act, Article 71.2",
+                    "description": "Record-keeping"
+                  },
+                  {
+                    "section": "71.3",
+                    "citation": "EU AI Act, Article 71.3",
+                    "description": "Access to documentation"
+                  }
+                ]
+              },
+              {
+                "name": "NIST RMF",
+                "references": [
+                  {
+                    "function": "Map",
+                    "category": "Map",
+                    "control": "4.1",
+                    "citation": "NIST AI RMF, Map 4.1",
+                    "description": "Map AI risks to legal and regulatory requirements"
+                  },
+                  {
+                    "function": "Measure",
+                    "category": "Measure",
+                    "control": "2.12",
+                    "citation": "NIST AI RMF, Measure 2.12",
+                    "description": "Measure AI performance"
+                  }
+                ]
+              },
+              {
+                "name": "SOC2",
+                "references": [
+                  {
+                    "section": "P3.1",
+                    "citation": "SOC2, P3.1",
+                    "description": "Retention"
+                  },
+                  {
+                    "section": "P3.2",
+                    "citation": "SOC2, P3.2",
+                    "description": "Disposal"
+                  },
+                  {
+                    "section": "P3.3",
+                    "citation": "SOC2, P3.3",
+                    "description": "Monitoring"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Mapping": [
+              {
+                "Domain": "Regulatory Operations",
+                "Master": "RO-4",
+                "Topic": "Post-Market Monitoring",
+                "Control Statement": "The organisation shall implement comprehensive post-market monitoring systems for deployed AI systems, including mechanisms for tracking performance, identifying issues, and implementing corrective actions. This shall include processes for reporting incidents to relevant authorities, maintaining required documentation, and conducting periodic reviews of system performance. The organisation shall ensure appropriate escalation paths exist for identified issues and maintain clear procedures for implementing necessary corrective actions.",
+                "Standards": [
+                  {
+                    "name": "ISO42001",
+                    "references": [
+                      {
+                        "section": "A.8.3",
+                        "citation": "ISO42001:2019, Annex A.8.3",
+                        "description": "Communication about AI systems"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "ISO27701",
+                    "references": [
+                      {
+                        "section": "6.2.3",
+                        "citation": "ISO27701:2019, Clause 6.2.3",
+                        "description": "Communication with interested parties"
+                      },
+                      {
+                        "section": "A.7.3.6-A.7.3.7",
+                        "citation": "ISO27701:2019, Annex A.7.3.6-A.7.3.7",
+                        "description": "Handling of data subject requests"
+                      },
+                      {
+                        "section": "A.7.3.10",
+                        "citation": "ISO27701:2019, Annex A.7.3.10",
+                        "description": "Privacy risk treatment"
+                      },
+                      {
+                        "section": "A.7.4.3",
+                        "citation": "ISO27701:2019, Annex A.7.4.3",
+                        "description": "Privacy monitoring"
+                      },
+                      {
+                        "section": "B.8.3.1",
+                        "citation": "ISO27701:2019, Annex B.8.3.1",
+                        "description": "Access to PII"
+                      },
+                      {
+                        "section": "B.8.5.7-B.8.5.8",
+                        "citation": "ISO27701:2019, Annex B.8.5.7-B.8.5.8",
+                        "description": "Communication with PII principals"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "EU AI ACT",
+                    "references": [
+                      {
+                        "section": "72.1-72.4",
+                        "citation": "EU AI Act, Articles 72.1-72.4",
+                        "description": "Post-market monitoring system"
+                      },
+                      {
+                        "section": "79.4",
+                        "citation": "EU AI Act, Article 79.4",
+                        "description": "Corrective action"
+                      },
+                      {
+                        "section": "80.4-80.5",
+                        "citation": "EU AI Act, Articles 80.4-80.5",
+                        "description": "Information to be submitted to authorities"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "NIST RMF",
+                    "references": [
+                      {
+                        "function": "Govern",
+                        "category": "Governance",
+                        "control": "6.1",
+                        "citation": "NIST AI RMF, Govern 6.1",
+                        "description": "Establish AI transparency policies"
+                      },
+                      {
+                        "function": "Measure",
+                        "category": "Measure",
+                        "control": "2.12",
+                        "citation": "NIST AI RMF, Measure 2.12",
+                        "description": "Measure AI performance"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "SOC2",
+                    "references": [
+                      {
+                        "section": "CC1.5",
+                        "citation": "SOC2, CC1.5",
+                        "description": "Policies and procedures"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+       
+       {
+        "Domain": "System, Data and Model Lifecycle",
+        "Master": "LC-1",
+        "Topic": "Data Quality and Governance",
+        "Control Statement": "The organisation shall establish and maintain comprehensive data governance processes ensuring high-quality data throughout the AI system lifecycle. This shall include documented requirements and procedures for data collection, processing, and validation, ensuring datasets are relevant, representative, and statistically suitable for their intended purpose. The organisation shall implement processes for bias detection and mitigation, maintain clear data provenance records, and ensure data reflects the specific geographical, behavioural, and functional settings where AI systems will be used.",
+        "Standards": [
+          {
+            "name": "ISO42001",
+            "references": [
+              {
+                "section": "A.7.2-A.7.6",
+                "citation": "ISO42001:2019, Annex A.7.2-A.7.6",
+                "description": "Data quality"
+              }
+            ]
+          },
+          {
+            "name": "ISO27701",
+            "references": [
+              {
+                "section": "A.7.4.1-A.7.4.2",
+                "citation": "ISO27701:2019, Annex A.7.4.1-A.7.4.2",
+                "description": "PII data quality"
+              },
+              {
+                "section": "A.7.4.6-A.7.4.8",
+                "citation": "ISO27701:2019, Annex A.7.4.6-A.7.4.8",
+                "description": "PII data provenance"
+              },
+              {
+                "section": "B.8.4.1-B.8.4.2",
+                "citation": "ISO27701:2019, Annex B.8.4.1-B.8.4.2",
+                "description": "PII data quality"
+              }
+            ]
+          },
+          {
+            "name": "EU AI ACT",
+            "references": [
+              {
+                "section": "10.1-10.6",
+                "citation": "EU AI Act, Articles 10.1-10.6",
+                "description": "Data and data governance"
+              }
+            ]
+          },
+          {
+            "name": "NIST RMF",
+            "references": [
+              {
+                "section": "Map 2.1",
+                "citation": "NIST AI RMF, Map 2.1",
+                "description": "Map AI risks to data quality"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Domain": "System, Data and Model Lifecycle",
+        "Master": "LC-2",
+        "Topic": "System Development and Lifecycle Management",
+        "Control Statement": "The organisation shall define, document, and maintain processes for responsible AI system development across the entire lifecycle, from requirements specification through deployment and eventual decommissioning. The organisation shall maintain clear records of system objectives, technical implementation decisions, and operational constraints throughout development and deployment phases.",
+        "Standards": [
+          {
+            "name": "ISO42001",
+            "references": [
+              {
+                "section": "A.6.1.2-A.6.1.3",
+                "citation": "ISO42001:2019, Annex A.6.1.2-A.6.1.3",
+                "description": "AI system development"
+              },
+              {
+                "section": "A.6.2.2-A.6.2.3",
+                "citation": "ISO42001:2019, Annex A.6.2.2-A.6.2.3",
+                "description": "AI system lifecycle management"
+              },
+              {
+                "section": "A.6.2.5",
+                "citation": "ISO42001:2019, Annex A.6.2.5",
+                "description": "AI system change management"
+              }
+            ]
+          },
+          {
+            "name": "ISO27701",
+            "references": [
+              {
+                "section": "A.7.4.1-A.7.4.2",
+                "citation": "ISO27701:2019, Annex A.7.4.1-A.7.4.2",
+                "description": "Privacy controls"
+              },
+              {
+                "section": "A.7.4.5-A.7.4.8",
+                "citation": "ISO27701:2019, Annex A.7.4.5-A.7.4.8",
+                "description": "Privacy controls implementation"
+              },
+              {
+                "section": "B.8.4.1-B.8.4.2",
+                "citation": "ISO27701:2019, Annex B.8.4.1-B.8.4.2",
+                "description": "PII data quality"
+              }
+            ]
+          },
+          {
+            "name": "NIST RMF",
+            "references": [
+              {
+                "section": "Map 1.6",
+                "citation": "NIST AI RMF, Map 1.6",
+                "description": "Map AI risks to system lifecycle"
+              },
+              {
+                "section": "Govern 1.7",
+                "citation": "NIST AI RMF, Govern 1.7",
+                "description": "Establish AI lifecycle management"
+              }
+            ]
+          },
+          {
+            "name": "SOC2",
+            "references": [
+              {
+                "section": "CC8.1",
+                "citation": "SOC2, CC8.1",
+                "description": "System development life cycle"
+              },
+              {
+                "section": "CC8.2",
+                "citation": "SOC2, CC8.2",
+                "description": "System implementation"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Domain": "System, Data and Model Lifecycle",
+        "Master": "LC-3",
+        "Topic": "Resource Management and Infrastructure",
+        "Control Statement": "The organisation shall document and maintain inventories of all resources required for AI system development and operation, including data resources, tooling, computing infrastructure, and human competencies. This shall include clear allocation of responsibilities, documentation of system dependencies, and maintenance of resource specifications throughout the system lifecycle.",
+        "Standards": [
+          {
+            "name": "ISO42001",
+            "references": [
+              {
+                "section": "A.4.3",
+                "citation": "ISO42001:2019, Annex A.4.3",
+                "description": "Resources for AI governance"
+              },
+              {
+                "section": "A.4.5",
+                "citation": "ISO42001:2019, Annex A.4.5",
+                "description": "Infrastructure for AI systems"
+              },
+              {
+                "section": "A.4.6",
+                "citation": "ISO42001:2019, Annex A.4.6",
+                "description": "Tools for AI governance"
+              },
+              {
+                "section": "A.10.2",
+                "citation": "ISO42001:2019, Annex A.10.2",
+                "description": "Resource management"
+              }
+            ]
+          },
+          {
+            "name": "ISO27001",
+            "references": [
+              {
+                "section": "A.8.1",
+                "citation": "ISO27001:2013, Annex A.8.1",
+                "description": "Asset management"
+              },
+              {
+                "section": "A.8.2",
+                "citation": "ISO27001:2013, Annex A.8.2",
+                "description": "Return of assets"
+              }
+            ]
+          },
+          {
+            "name": "ISO27701",
+            "references": [
+              {
+                "section": "A.7.2.6",
+                "citation": "ISO27701:2019, Annex A.7.2.6",
+                "description": "PII data resources"
+              },
+              {
+                "section": "A.7.2.7",
+                "citation": "ISO27701:2019, Annex A.7.2.7",
+                "description": "PII processing facilities"
+              },
+              {
+                "section": "B.8.5.6",
+                "citation": "ISO27701:2019, Annex B.8.5.6",
+                "description": "PII processing infrastructure"
+              }
+            ]
+          },
+          {
+            "name": "NIST RMF",
+            "references": [
+              {
+                "section": "Govern 1.6",
+                "citation": "NIST AI RMF, Govern 1.6",
+                "description": "Govern AI resources"
+              }
+            ]
+          }
+        ]
+      },
+       {
+        "Domain": "System, Data and Model Lifecycle",
+        "Master": "LC-4",
+        "Topic": "Technical Documentation",
+        "Control Statement": "The organisation shall maintain comprehensive technical documentation demonstrating compliance throughout the AI system lifecycle. This shall include system characteristics, design specifications, validation results, and operational logs. The organisation shall implement automated logging mechanisms to capture system events, maintain documentation for required retention periods, and ensure documentation remains accessible to relevant stakeholders.",
+        "Standards": [
+          {
+            "name": "ISO42001",
+            "references": [
+              {
+                "section": "7.5.1-7.5.3",
+                "citation": "ISO42001:2019, Clauses 7.5.1-7.5.3",
+                "description": "Documented information"
+              },
+              {
+                "section": "A.6.2.7",
+                "citation": "ISO42001:2019, Annex A.6.2.7",
+                "description": "Documentation of AI systems"
+              },
+              {
+                "section": "A.6.2.8",
+                "citation": "ISO42001:2019, Annex A.6.2.8",
+                "description": "Logging of AI system events"
+              }
+            ]
+          },
+          {
+            "name": "ISO27001",
+            "references": [
+              {
+                "section": "7.5.1-7.5.3",
+                "citation": "ISO27001:2013, Clauses 7.5.1-7.5.3",
+                "description": "Documented information"
+              }
+            ]
+          },
+          {
+            "name": "ISO27701",
+            "references": [
+              {
+                "section": "A.7.2.8",
+                "citation": "ISO27701:2019, Annex A.7.2.8",
+                "description": "Records of processing activities"
+              },
+              {
+                "section": "A.7.5.3",
+                "citation": "ISO27701:2019, Annex A.7.5.3",
+                "description": "Documentation for PII processing"
+              },
+              {
+                "section": "A.7.5.4",
+                "citation": "ISO27701:2019, Annex A.7.5.4",
+                "description": "Documentation for PII processing purposes"
+              },
+              {
+                "section": "B.8.2.6",
+                "citation": "ISO27701:2019, Annex B.8.2.6",
+                "description": "Records of PII processing"
+              },
+              {
+                "section": "B.8.5.3",
+                "citation": "ISO27701:2019, Annex B.8.5.3",
+                "description": "Documentation for PII processing activities"
+              }
+            ]
+          },
+          {
+            "name": "EU AI ACT",
+            "references": [
+              {
+                "section": "11.1-11.3",
+                "citation": "EU AI Act, Articles 11.1-11.3",
+                "description": "Technical documentation"
+              },
+              {
+                "section": "12.1-12.3",
+                "citation": "EU AI Act, Articles 12.1-12.3",
+                "description": "Conformity assessment"
+              },
+              {
+                "section": "18.1",
+                "citation": "EU AI Act, Article 18.1",
+                "description": "Conformity assessment"
+              }
+            ]
+          },
+          {
+            "name": "NIST RMF",
+            "references": [
+              {
+                "function": "Map",
+                "category": "Map",
+                "control": "2.2",
+                "citation": "NIST AI RMF, Map 2.2",
+                "description": "Map AI risks to technical documentation"
+              },
+              {
+                "function": "Map",
+                "category": "Map",
+                "control": "3.3",
+                "citation": "NIST AI RMF, Map 3.3",
+                "description": "Map AI risks to system documentation"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Domain": "System, Data and Model Lifecycle",
+        "Master": "LC-5",
+        "Topic": "Change Management & Version Control",
+        "Control Statement": "The organisation shall establish and maintain comprehensive processes for managing changes to AI systems throughout their lifecycle. This shall include documented procedures for proposing, evaluating, testing, and implementing changes to models, data, or system components. The organisation shall maintain detailed version control of all system elements, including models, datasets, and software components, with clear records of modifications and their rationale. Changes shall be tested and validated before deployment, with documentation updated to reflect current system state.",
+        "Standards": [
+          {
+            "name": "ISO42001",
+            "references": [
+              {
+                "section": "A.6.2.5",
+                "citation": "ISO42001:2019, Annex A.6.2.5",
+                "description": "AI system change management"
+              }
+            ]
+          },
+          {
+            "name": "ISO27001",
+            "references": [
+              {
+                "section": "A.12.2",
+                "citation": "ISO27001:2013, Annex A.12.2",
+                "description": "Change management"
+              }
+            ]
+          },
+          {
+            "name": "ISO27701",
+            "references": [
+              {
+                "section": "A.7.3.7",
+                "citation": "ISO27701:2019, Annex A.7.3.7",
+                "description": "Change management for PII processing"
+              },
+              {
+                "section": "B.8.5.7",
+                "citation": "ISO27701:2019, Annex B.8.5.7",
+                "description": "Change management for PII processing activities"
+              },
+              {
+                "section": "B.8.5.8",
+                "citation": "ISO27701:2019, Annex B.8.5.8",
+                "description": "Version control of PII data"
+              }
+            ]
+          },
+          {
+            "name": "EU AI ACT",
+            "references": [
+              {
+                "section": 11.3,
+                "citation": "EU AI Act, Article 11.3",
+                "description": "Changes to technical documentation"
+              }
+            ]
+          },
+          {
+            "name": "NIST RMF",
+            "references": [
+              {
+                "section": "Map 2.1",
+                "citation": "NIST AI RMF, Map 2.1",
+                "description": "Map AI risks to data quality"
+              }
+            ]
+          },
+          {
+            "name": "SOC2",
+            "references": [
+              {
+                "section": "CC8.1",
+                "citation": "SOC2, CC8.1",
+                "description": "System development life cycle"
+              },
+              {
+                "section": "CC8.2",
+                "citation": "SOC2, CC8.2",
+                "description": "System implementation"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+ }
