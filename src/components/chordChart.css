@@ -1,0 +1,30 @@
+/* Style for the group arcs */
+.arc-path {
+    fill: none; /* No fill for arcs */
+    stroke: #c0cea5; /* Stroke color for arcs */
+    stroke-width: 0.5px; /* Stroke width for arcs */
+  }
+  
+  /* Style for the labels */
+  .arc-label {
+    font-size: 14px; /* Font size for labels */
+    fill: black; /* Text color */
+    text-anchor: middle; /* Center align text */
+  }
+  
+  /* Style for the chords */
+  .chord-path {
+    stroke: #000; /* Stroke color for chords */
+    stroke-width: 0.2px; /* Stroke width for chords */
+    fill-opacity: 0.8; /* Slight transparency for chords */
+  }
+  
+  /* Style for the SVG element */
+  .chord-chart {
+    width: 100%; /* Make it responsive */
+    height: auto; /* Maintain aspect ratio */
+    max-width: 1000px; /* Set a reasonable maximum width */
+    max-height: 1000px; /* Set a reasonable maximum height */
+    display: block; /* Ensure it behaves like a block element */
+    margin: 0 auto; /* Center the chart horizontally */
+  }
