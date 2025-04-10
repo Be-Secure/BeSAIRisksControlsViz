@@ -1,8 +1,8 @@
-# Interactive AI Governance Chord Chart Generator with Filtering
+# BeSAIRisksControlsViz
 
 ## Overview
 
-A web application that generates an interactive visualizing the relationships between AI governance controls, directly from the `Source Data.xlsx` file in this repository. It includes filtering capabilities based on Domain, Topic, and specific Governance Standards.
+A Utility to Vizualize AI Risk and Controls part of the Be-Secure Community Initiative. 
 
 ## Key Requirements
 
