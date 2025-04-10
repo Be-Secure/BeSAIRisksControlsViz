@@ -1,4 +1,4 @@
-# Contributing to BeSLighthouse
+# Contributing to BeSAIRiskControlsViz
 
 Thank you for contributing your time and expertise to the BeSLighthouse project. This document provides guidance on BeSLighthouse contribution recommended practices. It covers what we're looking for in order to help set expectations and help you get the most out of participation in this project.
 
