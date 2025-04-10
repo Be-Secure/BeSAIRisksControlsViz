@@ -2,7 +2,7 @@
 
 ## Overview
 
-A Utility to Vizualize AI Risk and Controls Mapping for AI Safety and Security Experts . 
+BeS-AIRCV is an utility to Vizualize AI Risk and Controls Mapping for AI Safety and Security Experts . 
 
 ## About
 
