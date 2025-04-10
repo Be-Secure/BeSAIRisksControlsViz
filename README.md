@@ -2,7 +2,9 @@
 
 ## Overview
 
-A Utility to Vizualize AI Risk and Controls part of the Be-Secure Community Initiative. 
+A Utility to Vizualize AI Risk and Controls for AI Safety and Security Experts . The utility can leverage as a standalone application or a  BeSLab Plug-in . 
+
+This project is part of the Be-Secure Community Initiative. 
 
 ## Key Requirements
 
